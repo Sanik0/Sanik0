@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ3ZXF1cjI4dHI4ajRiMjh6OHJxZ3B3eTY0ZHFqejRzNWowcjFmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nvzTyGTzU7Xkq5ZF1g/giphy.gif" alt="Elden Ring" />
 </div>
 
