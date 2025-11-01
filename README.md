@@ -12,10 +12,7 @@
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ3ZXF1cjI4dHI4ajRiMjh6OHJxZ3B3eTY0ZHFqejRzNWowcjFmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nvzTyGTzU7Xkq5ZF1g/giphy.gif" alt="Elden Ring" />
 </div>
 
-
 ###
-
-<br clear="both">
 
 <h2 align="left">languages</h2>
 
@@ -89,5 +86,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanik0&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
