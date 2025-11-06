@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi, I'm Ronan Sanico, a full stack developer based on Quezon City, Philippines. I'm  currently studying bachelor of science in information technology in Quezon City University.<br><br>I'm always up for new challenges.</p>
+<p align="left">Hi, I'm Ronan Sanico, a full stack developer based on Quezon City, Philippines. I'm  currently studying Bachelor of Science in Information Technology in Quezon City University.<br><br>I'm always up for new challenges.</p>
 
 ###
 
