@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ3ZXF1cjI4dHI4ajRiMjh6OHJxZ3B3eTY0ZHFqejRzNWowcjFmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nvzTyGTzU7Xkq5ZF1g/giphy.gif" alt="Elden Ring" />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB5M2RudnBnbXR0cGtiaHgxOGdjeHRwcHMzOTNleGk5dzh1MmUybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ge7l7e5EiHUYI3e71P/giphy.gif" alt="Computer Anime" />
 </div>
 
 ###
